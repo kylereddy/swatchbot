@@ -1,6 +1,6 @@
 # SwatchBot
 
-SwatchBot is a Twitter bot developed in Python. Each day at 12:00 PM EST (UTC-5)/EDT (UTC-4), the bot will post a randomly generated color swatch on the [SwatchBot Twitter account.](https://twitter.com/SwatchBot) SwatchBot is hosted on a Raspberry Pi Zero.
+SwatchBot is a Twitter bot developed in Python. Each day at 9:00 AM EST (UTC-5)/EDT (UTC-4), the bot will post a randomly generated color swatch on the [SwatchBot Twitter account.](https://twitter.com/SwatchBot) SwatchBot is hosted on a Raspberry Pi Zero.
 
 ### Example Swatch
 ![Example Swatch](https://github.com/kylereddy/swatchbot/blob/master/example_swatch.png)
